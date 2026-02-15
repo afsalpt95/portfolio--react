@@ -1,15 +1,15 @@
 import { useRef } from "react";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 import { ExternalLink, Github } from "lucide-react";
-import restaurantImg from '@/assets/restaurant.png'
-import tecbooksImg from '@/assets/tecbooks.png'
-import goldImg from '@/assets/goldatm.png'
-import vbuyImg from '@/assets/vbuygold.png'
-import quickbooksImg from '@/assets/quickbooks.png'
-import mobileImg from '@/assets/mobile.png'
-import electronicsImg from '@/assets/electronincs.png'
-import libraryImg from '@/assets/library.png'
-import tudoImg from '@/assets/tudo-2.png'
+import restaurantImg from '@/assets/restaurant.webp'
+import tecbooksImg from '@/assets/tecbooks.webp'
+import goldImg from '@/assets/goldatm.webp'
+import vbuyImg from '@/assets/vbuygold.webp'
+import quickbooksImg from '@/assets/quickbooks.webp'
+import mobileImg from '@/assets/mobile.webp'
+import electronicsImg from '@/assets/electronincs.webp'
+import libraryImg from '@/assets/library.webp'
+import tudoImg from '@/assets/tudo-2.webp'
 
 
 

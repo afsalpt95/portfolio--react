@@ -1,6 +1,6 @@
 import { useRef, useEffect, useState, lazy, Suspense } from "react";
 import { ChevronDown } from "lucide-react";
-import afsalPhoto from "@/assets/mypic.png";
+import afsalPhoto from "@/assets/mypic.webp";
 
 const ParticleField = lazy(() => import("./ParticleField"));
 
